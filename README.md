@@ -3,8 +3,8 @@ This is a basic calculator built using HTML,CSS,JavaScript
 
 
 🛠️ Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 🚀 To run the project locally:
