@@ -12,9 +12,8 @@ git clone https://github.com/Viteshbabu248/Numeric-calculator.git
 cd Numeric-Calculator
 
 
-/calculator
-  ├── calculator.html
-  ├── calculator.css
-  ├── calculator.js
-  └── README.md
+📄 License
+This project is open source and available under the MIT License.
+
+
 
