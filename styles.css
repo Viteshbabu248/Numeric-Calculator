@@ -14,7 +14,7 @@ table, tr, td, th {
 table {
     width: 90%;
     max-width: 400px;
-    height: auto;
+    height: 450px;
     margin: 20px auto;
     border-spacing: 13px;
 }
@@ -68,7 +68,7 @@ div {
     height: 5px;
     width: 35%;
     border-radius: 80px;
-    margin-top:10%;
+    margin-top:6%;
     
 }
 
