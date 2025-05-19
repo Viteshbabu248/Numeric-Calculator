@@ -1,16 +1,15 @@
-/* General Table Styling */
+
 table, tr, td, th {
     border: 0px solid black;
     text-align: center;
     border-radius: 10px;
 }
 
-/* Table box shadow */
+
 .l {
     box-shadow: -5px -5px 5px white, 5px 5px 5px #a5a5a5;
 }
 
-/* Table layout */
 table {
     width: 90%;
     max-width: 400px;
@@ -19,7 +18,7 @@ table {
     border-spacing: 13px;
 }
 
-/* Background image */
+
 body {
     background-image: url(back.png);
     background-repeat: no-repeat;
@@ -31,7 +30,7 @@ body {
     font-family: sans-serif;
 }
 
-/* Input fields */
+
 input {
     border: none;
     color: white;
@@ -41,7 +40,6 @@ input {
     height: 100%;
 }
 
-/* Special buttons */
 .sr {
     height: 60px;
     background-color: transparent;
@@ -53,7 +51,7 @@ input {
     background-color: greenyellow;
 }
 
-/* Heading */
+
 h1 {
     text-align: center;
     margin-top: 50px;
@@ -62,7 +60,7 @@ h1 {
     font-size: 2rem;
 }
 
-/* Colored bar below heading */
+
 div {
     margin: 20px auto;
     height: 5px;
@@ -72,7 +70,7 @@ div {
     
 }
 
-/* Responsive tweaks */
+
 @media screen and (max-width: 600px) {
     h1 {
         font-size: 1.5rem;
